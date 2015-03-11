@@ -1,0 +1,8 @@
+{
+  "name": "junseokchoi/jicjjang",
+  "autoload" : {
+    "psr-4" : {
+      "testInterface\\" : "./"
+    }
+  }
+}

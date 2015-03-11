@@ -1,0 +1,11 @@
+{
+  "name": "junseokchoi/jicjjang",
+  "autoload" : {
+    "psr-4" : {
+      "testNamespace\\" : "./"
+    },
+    "files" : [
+      "./Func.php"
+    ]
+  }
+}
