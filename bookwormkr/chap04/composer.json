@@ -1,0 +1,29 @@
+{
+    "name": "bookwormkr/dice",
+    "description": "Simulation rolling dice",
+    "keywords": ["dice", "rpg"],
+    "homepage": "https://github.com/bookwormkr/dice",
+    "license": "MIT",
+    "authors": [
+	{
+	    "name": "Sangheon Han",
+	    "homepage": "https://github.com/bookwormkr",
+	    "role": "Programmer"
+	}
+    ],
+    "support": {
+	"email": "han@sangheon.com"
+    },
+    "require": {
+	"php" : ">=5.4.0"
+    },
+    "require-dev": {
+    },
+    "suggest": {
+    },
+    "autoload": {
+	"psr-4": {
+	    "bookwormkr\\": "src/"
+	}
+    }
+}
